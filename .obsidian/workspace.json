@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 2/Powerpoint Notes/Chapter 2 - Essential Chemistry for Biology.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c1fbf63e60660b3b",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 2/Powerpoint Notes/Chapter 2 - Essential Chemistry for Biology.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 2/Powerpoint Notes/Chapter 2 - Essential Chemistry for Biology.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 2/Powerpoint Notes/Chapter 2 - Essential Chemistry for Biology.md"
+                "file": "README.md"
               }
             }
           }
@@ -163,9 +162,9 @@
   },
   "active": "097e0d8fb5d863d8",
   "lastOpenFiles": [
-    "Week 2/Powerpoint Notes/Chapter 1 - Welcome to Biology.md",
     "Week 2/Powerpoint Notes/Chapter 2 - Essential Chemistry for Biology.md",
     "README.md",
+    "Week 2/Powerpoint Notes/Chapter 1 - Welcome to Biology.md",
     "Section 2 (Chapter 2)/Motion Along a Straight Line/(2) Motion with Constant Acceleration, 1D Kinematic Equations/1) Introduction.md",
     "Section 2 (Chapter 2).md",
     "().md",

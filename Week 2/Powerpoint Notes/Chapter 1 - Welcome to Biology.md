@@ -1,28 +1,31 @@
 # Chapter 1 - Introduction: Biology Today
+
+**🟦(text)🟦** = Important
+
 ## What is Science?
 - The word <u>science</u> comes from the Latin verb -> "To Know"
-- <b><font color="blue">Body of Knowledge</font></b>
-- <b><font color="blue">Process of <u>Inquiry</u></font></b> by which we come to discord and better understand the natural world.
-	- Involves asking <b><font color="blue">questions</font></b>
-	- Involves making <b><font color="blue">observations</font></b> or <b><font color="blue">measurements</font></b>
+- <b>🟦Body of Knowledge🟦</b>
+- <b>🟦Process of <u>Inquiry</u>🟦</b> by which we come to discord and better understand the natural world.
+	- Involves asking <b>🟦questions🟦</b>
+	- Involves making <b>🟦observations🟦</b> or <b>🟦measurements🟦</b>
 
 ## What can Science do?
-- Provides <b><font color="blue">explanations</font></b> of the <u>natural world</u>
+- Provides <b>🟦explanations🟦</b> of the <u>natural world</u>
 	- Natural world can be observed / measured
 	- Cannot study/explain the supernatural
-- Explanations are <b><font color="blue">testable</font></b>
+- Explanations are <b>🟦testable🟦</b>
 	- Collect evidence
-- Explanations are <b><font color="blue">falsifiable</font></b>
-- Outgoing process -> conclusions are <b><font color="blue">tentative</font></b>
+- Explanations are <b>🟦falsifiable🟦</b>
+- Outgoing process -> conclusions are <b>🟦tentative🟦</b>
 
 ## What is biology?
-- **Biology** is the scientific study of <b><font color="blue">life</font></b>
+- **Biology** is the scientific study of <b>🟦life🟦</b>
 - What constitutes as living?
 	- The phenomenon of life seems to defy a simple, one-sentence definition
 	- We recognize life mainly by what living things do.
 
 ## Properties of Life
-1) <b><font color="blue">Ordered Organization</font></b>
+1) <b>🟦Ordered Organization🟦</b>
 	- Unicellular 
 		1) Bacteria
 		2) Protist
@@ -37,25 +40,25 @@
 				- Compartments
 				- Organelles
 				- Larger in Size
-2) Achieve homeostasis - Stable Internal Environment <b><font color="blue">(Regulate Internal Environment)</font></b>
+2) Achieve homeostasis - Stable Internal Environment <b>🟦(Regulate Internal Environment)🟦</b>
 	- Cold-blooded (Ectoderm) - Organisms that are <u>dependent</u> on the environment to achieve homeostasis.
 		- Examples: Reptiles, amphibians, fish
 	- Warm-blooded (Endotherm) - Organisms that don't depend on environment to achieve homeostasis.
 		- Examples: Mammals, birds
-3) <b><font color="blue">Growth and Development</font></b>
-4) Process <b><font color="blue">(Energy Processing (Metabolism))</font></b>
+3) <b>🟦Growth and Development🟦</b>
+4) Process <b>🟦(Energy Processing (Metabolism))🟦</b>
 	- Cellular Respiration - Get energy from foods we eat
 	- Photosynthesis - Convert sunlight to energy
-5) Response to stimuli in environment <b><font color="blue">(Response to the Environment)</font></b>
+5) Response to stimuli in environment <b>🟦(Response to the Environment)🟦</b>
 	- Anything that elicit a response
-6) <b><font color="blue">Reproduction</font></b>
+6) <b>🟦Reproduction🟦</b>
 	1) Mitosis
 		- No Partners
 		- Offspring is exact copy of parent (identical)
 	2) Meiosis
 		- Partner involved
 		- Genetic variability
-7) <b><font color="blue">Evolution (Adapt)</font></b>
+7) <b>🟦Evolution (Adapt)🟦</b>
 	- Process of change of time
 
 ## Diversity of Life
@@ -66,16 +69,16 @@
 	- Estimates of the total number of species range from 10 million to over 100 million species
 
 - Three domains of Life:
-	1) <b><font color="blue">Bacteria</font></b> (Prokaryote)
-	2) <b><font color="blue">Archaea</font></b> (Prokaryote)
-	3) <b><font color="blue">Eukarya</font></b> (Eukaryotes)
+	1) <b>🟦Bacteria🟦</b> (Prokaryote)
+	2) <b>🟦Archaea🟦</b> (Prokaryote)
+	3) <b>🟦Eukarya🟦</b> (Eukaryotes)
 		- Protists
 		- Fungi
 		- Plants
 		- Animals
 
 - Kingdoms:
-	- Animalia <b><font color="blue">(Humans belong in this tree of life)</font></b>
+	- Animalia <b>🟦(Humans belong in this tree of life)🟦</b>
 	- Plantae
 	- Fungi
 	- Protista
@@ -97,7 +100,7 @@
 5) Organisms
 6) Organ Systems and Organs
 7) Tissues
-8) Cells <b><font color="blue">(Properties of life emerge at this level)</font></b>
+8) Cells <b>🟦(Properties of life emerge at this level)🟦</b>
 9) Organelles
 10) Molecules and Atoms
 
@@ -110,11 +113,11 @@
 
 ## The Process of Science
 - Two main scientific approaches:
-	- <b><font color="blue">Discovery Science</font></b> - Describes Nature
-	- <b><font color="blue">Hypothesis-driven Science</font></b> - Explains Nature
+	- <b>🟦Discovery Science🟦</b> - Describes Nature
+	- <b>🟦Hypothesis-driven Science🟦</b> - Explains Nature
 
 ## The Scientific Method
-- <b><font color="blue">Scientific Method</font></b> - A formal process of inquiry
+- <b>🟦Scientific Method🟦</b> - A formal process of inquiry
 **(Image goes here)**
 1) Observation
 2) Question
@@ -136,12 +139,12 @@
 - The bigger sample size, the more reflective the results are of the entire population, which would be more accurate.
 	- Good sample size: 30+
 
-- <b><font color="blue">Hypothesis</font></b>: A proposed explanation for a phenomenon or a set of observations.
-	- Must be <b><font color="blue">specific, testable, and falsifiable</font></b>
+- <b>🟦Hypothesis🟦</b>: A proposed explanation for a phenomenon or a set of observations.
+	- Must be <b>🟦specific, testable, and falsifiable🟦</b>
 	- Tentative
 		- Null Hypothesis (H<sub>o</sub>) - No Effect
 		- Alternative Hypothesis (H<sub>A</sub>) -  Has an affect
-	- A properly formulated hypothesis leads to a testable <b><font color="blue">prediction</font></b>
+	- A properly formulated hypothesis leads to a testable <b>🟦prediction🟦</b>
 	- Written as an "If (BLANK), then (BLANK)" statement
 **(Image goes here)**
 
@@ -158,31 +161,31 @@
 ## Controlling Variables
 - Minimize differences between a control group and an experimental group other than the treatment itself
 - Most important feature of a good experiment
-- <b><font color="blue">Independent Variable</font></b>
+- <b>🟦Independent Variable🟦</b>
 	- This is what we test
 	- What we change or manipulate in the experiment
-- <b><font color="blue">Dependent Variable</font></b>
+- <b>🟦Dependent Variable🟦</b>
 	- This is what changes with the independent variable
 	- What we measure
 
-## Test Hypothesis using an <b><font color="blue">Experiment</font></b>
+## Test Hypothesis using an 🟦Experiment🟦
 - An experiment may:
 	- Support a hypothesis
 	- Refute a Hypothesis
-- [<b><font color="blue">Proper Experimental Design</font></b>](#Proper-Experimental-Design)
+- [<b>🟦Proper Experimental Design🟦</b>](#Proper-Experimental-Design)
 
 ## Collect and Analyze Data
-- Dependent Variable on <b><font color="blue">y-axis</font></b>
-- Independent Variable on <b><font color="blue">x-axis</font></b>
+- Dependent Variable on <b>🟦y-axis🟦</b>
+- Independent Variable on <b>🟦x-axis🟦</b>
 
 ## Theories in Science
 - Accumulating facts is not the goal of science
-- A <b><font color="blue">theory</font></b> is comprehensive explanation supported by abundant evidence
+- A <b>🟦theory🟦</b> is comprehensive explanation supported by abundant evidence. Pretty much a hypothesis that has been extensively tested, therefore, ample evidence supports that ideology, hence, it is deemed a theory.
 	- Repeatedly tested
-	- <b><font color="blue">Broad</font></b> in scope than hypothesis
+	- <b>🟦Broad🟦</b> in scope than hypothesis
 	- General enough to spin off new hypothesis
 - Scientific Theories:
 	- Atomic Theory
 	- Gravitational Theory
 	- **Cell Theory**
-	- **Evolutionary Theory**
+	- **Evolutionary Theory** 

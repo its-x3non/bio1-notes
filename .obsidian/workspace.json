@@ -11,8 +11,12 @@
             "id": "cd34d738f2c6b7eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Week 2/Powerpoint Notes/Chapter 1 - Welcome to Biology.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c1fbf63e60660b3b",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Week 2/Powerpoint Notes/Chapter 1 - Welcome to Biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Week 2/Powerpoint Notes/Chapter 1 - Welcome to Biology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Week 2/Powerpoint Notes/Chapter 1 - Welcome to Biology.md"
+              }
             }
           }
         ]
